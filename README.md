@@ -35,9 +35,7 @@ This project is the best demonstration of the integration capabilities I offer t
 
 If you need an engineer to build the bridge between your hardware and software, I would be happy to discuss your project.
 
-* **Upwork Profile:** [Your Upwork Profile Link]
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile Link (Optional)]
+* **Email:** [yunusemrecftci42@gmail.com]
 
 ***
 Made with ❤️ by Yunus Emre Çiftçi
