@@ -1,5 +1,5 @@
 # Hello! 👋 I'm Yunus Emre Çiftçi
-### Embedded Systems | Electrical & Electronics Engineer
+### Embedded Systems | Electronics And Communication Engineering
 
 As a freelance engineer, I specialize in developing systems that bridge the gap between physical hardware and modern software interfaces (GUIs). My expertise lies in taking live data streams from complex embedded systems (Arduino, ESP32) and making them monitorable and controllable through professional desktop applications (PyQt, QML).
 
